@@ -1,2 +1,2 @@
-# tienda_angula_reactjs
-tienda virtual con angular y reactjs
+# tienda_angula2
+tienda virtual con angular 2
